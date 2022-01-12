@@ -1,0 +1,130 @@
+.card{
+    max-width: 350px;
+     position: absolute;
+     left: 70%;
+     top:30%;
+    /* top:50%;
+    
+    left: 80%;  */
+}
+.images{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid ;
+    padding: 2px;
+    position: relative;
+}
+.card-body{
+    height: 400px;
+    
+}
+.hii{
+    background: cornflowerblue;
+}
+
+.chat{
+    position: absolute;
+    top:50%;
+    background:#ececec;
+}
+.endborder{
+    position: absolute;
+    top:90%;
+}
+.card1{
+    max-width: 380px;
+    position: absolute;
+    top:8%;
+    left: 70%;
+}
+.brdr{
+
+    background: #253B8D;
+    color: white;
+    
+    height: 35px;
+    align-items: center;
+    border-radius: 10px;
+}
+.brdr1{
+    background: #021044;
+
+    height: 330px;
+    border-radius:10px;
+}
+.heading{
+    color: white;
+}
+.loream{
+    color:white;
+    text-align:start;
+}
+.btn{
+    position: absolute;
+    left: 10%;
+    border-radius: 30px;
+    top:75%
+}
+.txt{
+    position: absolute;
+    top:90%;
+}
+body a{
+text-decoration: none;
+}
+.border3{
+    height: 500px;
+}
+.borderclass{
+    height: 450px;
+}
+.border5{
+    background: black;
+    height: 30px;
+}
+.icon{
+    position: absolute;
+    left:60%;
+    color: white;
+}
+.icon1{
+    position: absolute;
+    left:65%;
+    color: white;
+}
+.icon2{
+    position: absolute;
+    left:70%;
+    
+}
+.icon3{
+    position: absolute;
+    left:75%;
+    color: white;
+    
+}
+.icon4{
+    position: absolute;
+    left:80%;
+    color: white;
+    
+}
+.icon5{
+    position: absolute;
+    left:85%;
+    color: white;
+    
+}
+.productbrdr{
+    height: 50px;
+    background:#343c3e;
+}
+.border10{
+    width: 400px;
+}
+.computericon{
+    position: absolute;
+    left: 9%;
+}
+
